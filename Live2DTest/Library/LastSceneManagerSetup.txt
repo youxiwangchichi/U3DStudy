@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Live2D/Cubism/Samples/Raycasting/Raycasting.unity
+  isLoaded: 1
+  isActive: 1
